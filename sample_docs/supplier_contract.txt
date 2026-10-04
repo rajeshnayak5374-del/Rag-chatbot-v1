@@ -1,0 +1,31 @@
+SUPPLIER CONTRACT — SAGE ENTERPRISE
+Supplier: ABC Electronics Pvt Ltd
+Contract ID: SAGE-SUP-2024-0042
+Date: January 15, 2024
+Valid Until: December 31, 2025
+
+PARTS SUPPLIED:
+Engine Control Unit ECU Part No ECU-001
+Semiconductor Chips Part No SEMI-202
+Wiring Harness Part No WH-330
+
+LEAD TIMES:
+ECU: 45 days from purchase order confirmation
+Semiconductor Chips: 60 days imported from Taiwan
+Wiring Harness: 21 days local manufacturing
+
+PENALTY CLAUSES:
+Delivery delay beyond 7 days: 2 percent penalty on invoice value per week
+Quality rejection rate above 3 percent: supplier bears rework cost
+Force majeure clause applies for natural disasters and government restrictions only
+
+PAYMENT TERMS:
+30 days credit from invoice date
+Early payment discount: 1.5 percent if paid within 10 days
+
+ESCALATION CONTACTS:
+Account Manager: Ramesh Kumar
+Email: ramesh.kumar@abcelectronics.com
+Phone: +91-9876543210
+Director Operations: Priya Sharma
+Email: priya.sharma@abcelectronics.com

@@ -1,0 +1,15 @@
+langchain==0.3.25
+langchain-community==0.3.23
+langchain-huggingface==0.1.2
+langchain-text-splitters==0.3.8
+langchain-groq==0.3.2
+chromadb==1.0.10
+groq==0.28.0
+fastapi==0.115.12
+uvicorn==0.34.2
+python-dotenv==1.1.0
+sentence-transformers==4.1.0
+pydantic==2.11.3
+pytest==8.3.5
+httpx==0.28.1
+numpy==2.2.4

@@ -1,0 +1,29 @@
+STANDARD OPERATING PROCEDURE — DEMAND PLANNING
+Document ID: SOP-DP-001
+Version: 2.3
+Last Updated: March 10, 2024
+
+PURPOSE:
+This SOP defines the monthly demand forecasting process for planning teams.
+
+FORECASTING STEPS:
+Step 1: Extract 36 months of sales history from ERP system on Day 1 and Day 2 of each month.
+Step 2: Run statistical forecast using moving average method on Day 3 to Day 5.
+Step 3: Apply market intelligence overlay including festive season adjustments on Day 6 to Day 8.
+Step 4: Conduct consensus meeting with sales and finance teams on Day 10 to lock the forecast.
+
+SAFETY STOCK POLICY:
+A-class parts high value and critical: maintain 30 days of safety stock at all times.
+B-class parts medium value: maintain 15 days of safety stock.
+C-class parts low value and non-critical: maintain 7 days of safety stock.
+Safety stock levels must be reviewed and updated every quarter.
+
+ESCALATION MATRIX:
+Forecast variance above 20 percent: escalate to Planning Manager within 24 hours.
+Forecast variance above 40 percent: escalate to Supply Chain Director within 12 hours.
+Major market event such as competitor launch or product recall: convene emergency meeting within 48 hours.
+
+KPI TARGETS:
+WMAPE target: less than 15 percent at model level.
+Bias target: between minus 5 percent and plus 5 percent.
+Forecast lock compliance: 100 percent by Day 10 of each month.
